@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Rahul Kumar",
+    "age": 32,
+    "gender": "male",
+    "condition": "Diabetes",
+    "lastVisit": "2025-03-01"
+  },
+  {
+    "id": "2",
+    "name": "Anjali Nair",
+    "age": 28,
+    "gender": "female",
+    "condition": "Hypertension",
+    "lastVisit": "2025-02-20"
+  },
+  {
+    "id": "3",
+    "name": "Arjun Menon",
+    "age": 45,
+    "gender": "male",
+    "condition": "Cardiac",
+    "lastVisit": "2025-01-15"
+  }
+]
